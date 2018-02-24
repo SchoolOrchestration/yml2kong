@@ -18,8 +18,8 @@ consumers:
         value: ...      
     set: # set a variable:
       - admin_user_id: result.id
-  - username: exampleOauthClient
-    custom_id: exampleOauthClient
+  - username: exampleoauthclient
+    custom_id: exampleoauthclient
     set: # set a variable:
       - example_oauthclient_id: result.id
     
